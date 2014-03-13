@@ -9,6 +9,6 @@
     "templates": "templates",
     "views": "client/views"
   },
-  "directories": {},
-  "module": "objects/sample-page"
+  "module": "objects/sample-page",
+  "directories": {}
 }
