@@ -13,9 +13,9 @@
     "colors": "~0.6.2",
     "async": "~0.2.10",
     "eyes": "git+ssh://git@github.com/gabesoft/eyes.js.git#v0.1.10",
-    "srunner": "~0.1.6",
     "handlebars": "~2.0.0-alpha.2",
-    "underscore.string": "~2.3.3"
+    "underscore.string": "~2.3.3",
+    "srunner": "~0.1.8"
   },
   "devDependencies": {
     "mocha": "~1.9.0"

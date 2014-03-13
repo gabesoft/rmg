@@ -18,5 +18,6 @@
     "controllers": "client/controllers"
   },
   "directories": {},
-  "module": "objects/sample-page"
+  "module": "objects/sample-page",
+  "log": {}
 }
