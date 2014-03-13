@@ -7,7 +7,14 @@
   "bin": {
     "rmg": "./bin/rmg"
   },
-  "dependencies": {},
+  "dependencies": {
+    "flatiron": "~0.3.11",
+    "flatiron-cli-config": "~0.1.4",
+    "colors": "~0.6.2",
+    "async": "~0.2.10",
+    "eyes": "git+ssh://git@github.com/gabesoft/eyes.js.git#v0.1.10",
+    "srunner": "~0.1.6"
+  },
   "devDependencies": {
     "mocha": "~1.9.0"
   },
