@@ -1,3 +1,10 @@
 {
-
+  "folders" : [
+    "client/controllers",
+    "client/models",
+    "client/views",
+    "lib",
+    "styles",
+    "templates",
+    "assets/img" ]
 }
