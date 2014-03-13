@@ -1,10 +1,13 @@
 {
-  "folders" : [
+  "folders": [
     "client/controllers",
     "client/models",
     "client/views",
     "lib",
     "styles",
     "templates",
-    "assets/img" ]
+    "assets/img"
+  ],
+  "directories": {},
+  "module": "objects/user/sample-page"
 }
