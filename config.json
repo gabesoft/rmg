@@ -8,6 +8,15 @@
     "templates",
     "assets/img"
   ],
+  "paths": {
+    "routes": "lib/routes.js",
+    "styles": "styles",
+    "templates": "templates",
+    "init": "client/init.js",
+    "models": "client/models",
+    "views": "client/views",
+    "controllers": "client/controllers"
+  },
   "directories": {},
-  "module": "objects/user/sample2"
+  "module": "objects/home/sample1"
 }
