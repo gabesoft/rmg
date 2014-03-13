@@ -1,23 +1,14 @@
 {
-  "folders": [
-    "client/controllers",
-    "client/models",
-    "client/views",
-    "lib",
-    "styles",
-    "templates",
-    "assets/img"
-  ],
   "paths": {
-    "routes": "lib/routes.js",
+    "client": "client",
+    "controllers": "client/controllers",
+    "img": "assets/img",
+    "lib": "lib",
+    "models": "client/models",
     "styles": "styles",
     "templates": "templates",
-    "init": "client/init.js",
-    "models": "client/models",
-    "views": "client/views",
-    "controllers": "client/controllers"
+    "views": "client/views"
   },
   "directories": {},
-  "module": "objects/sample-page",
-  "log": {}
+  "module": "objects/sample-page"
 }
