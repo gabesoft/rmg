@@ -1,0 +1,22 @@
+{
+  "name": "rmg",
+  "version": "0.0.1",
+  "description": "Rind module generator",
+  "preferGlobal": true,
+  "main": "./lib/index.js",
+  "bin": {
+    "rmg": "./bin/rmg"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gabesoft/rmg.git"
+  },
+  "author": {
+    "name": "gabesoft",
+    "email": "gabesoft@gmail.com"
+  }
+}

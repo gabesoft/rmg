@@ -1,0 +1,3 @@
+#rmg#
+
+*Rind module generator*
