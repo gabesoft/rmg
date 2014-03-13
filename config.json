@@ -18,5 +18,5 @@
     "controllers": "client/controllers"
   },
   "directories": {},
-  "module": "objects/home/sample1"
+  "module": "objects/sample-page"
 }
