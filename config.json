@@ -9,6 +9,7 @@
     "templates": "templates",
     "views": "client/views"
   },
-  "module": "objects/sample-page",
+  "module": "objects/user/fancy-page",
+  "global-module": "modules/global.mod",
   "directories": {}
 }
