@@ -11,5 +11,6 @@
   },
   "module": "objects/user/fancy-page",
   "global-module": "modules/global.mod",
+  "app-config": "config/app.json5",
   "directories": {}
 }
