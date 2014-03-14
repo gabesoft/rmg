@@ -1,0 +1,4 @@
+{>"pages/base/main"/}
+{<title}{/title}
+{<wholeBody}
+{/wholeBody}
