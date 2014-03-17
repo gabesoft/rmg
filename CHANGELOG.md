@@ -1,3 +1,7 @@
+0.0.6
+-----
+Save config in user's home
+
 0.0.5
 -----
 Alpha 4
