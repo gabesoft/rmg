@@ -1,3 +1,7 @@
+0.0.9
+-----
+Removed debug info
+
 0.0.8
 -----
 Added default config version
