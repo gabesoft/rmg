@@ -1,3 +1,7 @@
+0.0.12
+-----
+Added version command
+
 0.0.11
 -----
 Usage updates
