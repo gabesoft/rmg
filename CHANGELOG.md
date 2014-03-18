@@ -1,3 +1,7 @@
+0.0.11
+-----
+Usage updates
+
 0.0.10
 -----
 Maintain comments when changing json5 files
