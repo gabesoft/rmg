@@ -1,3 +1,7 @@
+0.0.8
+-----
+Added default config version
+
 0.0.7
 -----
 Parameter alias
