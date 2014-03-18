@@ -16,7 +16,7 @@
     "handlebars": "~2.0.0-alpha.2",
     "underscore.string": "~2.3.3",
     "srunner": "~0.1.8",
-    "json5": "~0.2.0"
+    "jju": "~1.0.2"
   },
   "devDependencies": {
     "mocha": "~1.9.0"
