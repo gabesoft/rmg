@@ -1,3 +1,7 @@
+0.0.10
+-----
+Maintain comments when changing json5 files
+
 0.0.9
 -----
 Removed debug info
