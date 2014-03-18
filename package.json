@@ -16,7 +16,8 @@
     "handlebars": "~2.0.0-alpha.2",
     "underscore.string": "~2.3.3",
     "srunner": "~0.1.8",
-    "jju": "~1.0.2"
+    "jju": "~1.0.2",
+    "trans": "0.0.16"
   },
   "devDependencies": {
     "mocha": "~1.9.0"
