@@ -1,3 +1,7 @@
+0.0.13
+-----
+Save the module name in config
+
 0.0.12
 -----
 Added version command
