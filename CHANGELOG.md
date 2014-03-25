@@ -1,3 +1,7 @@
+0.0.14
+-----
+Use dashes in file names instead of underscore
+
 0.0.13
 -----
 Save the module name in config
