@@ -1,3 +1,7 @@
+0.0.15
+-----
+Save the template key in config
+
 0.0.14
 -----
 Use dashes in file names instead of underscore

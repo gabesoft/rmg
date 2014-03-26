@@ -1,6 +1,6 @@
 {
   "name": "rmg",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Rind module generator",
   "preferGlobal": true,
   "main": "./lib/index.js",
